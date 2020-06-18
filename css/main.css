@@ -1,0 +1,206 @@
+@font-face {
+    font-family: FontAwesome;
+    src: url("fonts/FontAwesome.ttf");
+}
+
+.uyeicon{
+	font-size: 15px;
+	color: white;
+	font-family: FontAwesome !important;
+	display: inline;
+}
+.menu{
+	border-bottom-style: solid;
+	border-width: 1px;
+	border-color: #EAEAEA;
+}
+.cover1{
+	margin-top: 30%;
+	border-right-style: solid;
+	border-width: 1px;
+	border-color: #EAEAEA;
+}
+.cover1_l_up{
+	font-family: 'Francois One', sans-serif;
+	font-size: 60px;
+	line-height: 70px;
+}
+.cover1_l_dw{
+	font-family: system-ui;
+	font-size: 20px;
+}
+.cover1_r_baslik{
+	font-family: 'Francois One', sans-serif;
+	font-size: 30px;
+	margin-top: 25%;
+}
+.google{
+	font-family: 'Francois One', sans-serif;
+	font-size: 18px;
+	line-height: 20px;
+	padding-top: 2%;
+}
+.googlediv{
+	margin-top: 5%;
+	border-style: solid;
+	border-color: #EAEAEA;
+	border-width: 1%;
+}
+#googlelogo{
+	padding-left: 2%;
+}
+.cover1_r{
+	padding-left: 10%;
+}
+#form_baslık{
+	padding-top: 10%;
+	padding-bottom: 10%;
+	font-size: 13px;
+	margin-left: 50%;
+	color: #b5b5b5;
+}
+.formcolor{
+	background-color: #f5f5f5;
+}
+.formdown{
+	font-size: 13px;
+}
+.kayıtbtn{
+	margin-left: 30%;
+}
+.cover2{
+	margin-top: 10%;
+}
+.cover2_r_up{
+	font-family: 'Francois One', sans-serif;
+}
+.cover2_r_dw{
+	padding-top: 5%;
+	font-size: 18px;
+	padding-bottom: 5%;
+}
+p a:hover{
+	color: #66d422;
+	text-decoration: none;
+}
+p a:link{
+	color: #000000;
+	text-decoration: none;
+}
+p a:visited{
+	color: #000000;
+	text-decoration: none;
+}
+.hesap{
+	border-bottom: solid;
+	border-color: #008D34;
+	width: 40%;
+	line-height: 5%;
+}
+#bizinis{
+	width: 55%;
+	line-height: 5%;
+}
+.cover3{
+	margin-top: 5%;
+}
+.cover4{
+	padding-bottom: 5%;
+	padding-top: 5%;
+}
+.sonbtn{
+	margin-left: 45%;
+}
+.footerupdiv{
+	background-color: #E6E6E6;
+}
+.artı{
+	margin-top: 20%;
+}
+.sideicon{
+	margin-top: 15%;
+}
+.yıldız{
+	margin-top: 60%;
+}
+.butonpad{
+	margin-left: 25%;
+	background-color: #4CC544;
+	border-radius: 40%;
+}
+.divleft{
+	height: 975px;
+	background-color: #5D5D5D;
+}
+button:hover{
+	background-color: #4483C5;
+}
+button:visited {
+    background-color: #000000;
+}
+.divmidh3{
+	font-size: 25px;
+	color: #9F9F9F;
+	padding-left: 10%;
+	padding-top: 10%;
+}
+.divmidbt{
+	margin-left: 40%;
+	margin-top: 10%;
+	margin-bottom: 5%;
+}
+.divmidüst{
+	border-bottom-style: solid;
+	border-bottom-color: #E8E8E8;
+}
+.divcol3{
+	border-right-style: solid;
+	border-right-color: #E8E8E8;
+}
+
+.textareaekle{
+	border-style: solid;
+	border-color: #13FD00;
+}
+.textarea{
+	margin: 2%;
+	margin-bottom: 0%;
+}
+.baslık{
+	margin-top: 5%;
+}
+.web_cover2{
+	margin-top: 5%;
+}
+.gradient{
+	margin-top: 5%;
+	background: -webkit-linear-gradient(left,#28624D,#49A282,#28624D);
+}
+.textcolor{
+	color: white;
+}
+.buttonweb{
+	margin-top: 10%;
+	margin-left: 40%;
+}
+.içdivweb{
+	padding-top: 10%;
+	padding-bottom: 10%;
+}
+.ekdiv{
+	background-color: #a2f07a!important;
+	margin:3px 14px 3px 14px;
+}
+.tabmargin{
+	margin-top: 10px;
+}
+.gradyan{
+	background: rgba(146,171,151,0.73);
+background: -moz-linear-gradient(left, rgba(146,171,151,0.73) 0%, rgba(195,219,167,0.75) 45%, rgba(191,209,155,0.75) 51%, rgba(185,209,157,0.75) 56%, rgba(162,186,168,0.77) 100%);
+background: -webkit-gradient(left top, right top, color-stop(0%, rgba(146,171,151,0.73)), color-stop(45%, rgba(195,219,167,0.75)), color-stop(51%, rgba(191,209,155,0.75)), color-stop(56%, rgba(185,209,157,0.75)), color-stop(100%, rgba(162,186,168,0.77)));
+background: -webkit-linear-gradient(left, rgba(146,171,151,0.73) 0%, rgba(195,219,167,0.75) 45%, rgba(191,209,155,0.75) 51%, rgba(185,209,157,0.75) 56%, rgba(162,186,168,0.77) 100%);
+background: -o-linear-gradient(left, rgba(146,171,151,0.73) 0%, rgba(195,219,167,0.75) 45%, rgba(191,209,155,0.75) 51%, rgba(185,209,157,0.75) 56%, rgba(162,186,168,0.77) 100%);
+background: -ms-linear-gradient(left, rgba(146,171,151,0.73) 0%, rgba(195,219,167,0.75) 45%, rgba(191,209,155,0.75) 51%, rgba(185,209,157,0.75) 56%, rgba(162,186,168,0.77) 100%);
+background: linear-gradient(to right, rgba(146,171,151,0.73) 0%, rgba(195,219,167,0.75) 45%, rgba(191,209,155,0.75) 51%, rgba(185,209,157,0.75) 56%, rgba(162,186,168,0.77) 100%);
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#92ab97', endColorstr='#a2baa8', GradientType=1 );
+}
